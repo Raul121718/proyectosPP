@@ -1,0 +1,15 @@
+F:\trabajos visual studio\paradigma de programacion\ProyectosPP\bin\Debug\ProyectosPP.exe.config
+F:\trabajos visual studio\paradigma de programacion\ProyectosPP\bin\Debug\ProyectosPP.exe
+F:\trabajos visual studio\paradigma de programacion\ProyectosPP\bin\Debug\ProyectosPP.pdb
+F:\trabajos visual studio\paradigma de programacion\ProyectosPP\obj\Debug\ProyectosPP.csproj.AssemblyReference.cache
+F:\trabajos visual studio\paradigma de programacion\ProyectosPP\obj\Debug\ProyectosPP.menu.resources
+F:\trabajos visual studio\paradigma de programacion\ProyectosPP\obj\Debug\ProyectosPP.Properties.Resources.resources
+F:\trabajos visual studio\paradigma de programacion\ProyectosPP\obj\Debug\ProyectosPP.PROYECTOSPOO.arreglosbidimencionales.resources
+F:\trabajos visual studio\paradigma de programacion\ProyectosPP\obj\Debug\ProyectosPP.PROYECTOSPOO.calculadora.resources
+F:\trabajos visual studio\paradigma de programacion\ProyectosPP\obj\Debug\ProyectosPP.calculosaritmeticos.resources
+F:\trabajos visual studio\paradigma de programacion\ProyectosPP\obj\Debug\ProyectosPP.PROYECTOSPOO.Frm_multidimensional.resources
+F:\trabajos visual studio\paradigma de programacion\ProyectosPP\obj\Debug\ProyectosPP.PROYECTOSPOO.promediodetrescalificaciones.resources
+F:\trabajos visual studio\paradigma de programacion\ProyectosPP\obj\Debug\ProyectosPP.csproj.GenerateResource.cache
+F:\trabajos visual studio\paradigma de programacion\ProyectosPP\obj\Debug\ProyectosPP.csproj.CoreCompileInputs.cache
+F:\trabajos visual studio\paradigma de programacion\ProyectosPP\obj\Debug\ProyectosPP.exe
+F:\trabajos visual studio\paradigma de programacion\ProyectosPP\obj\Debug\ProyectosPP.pdb
